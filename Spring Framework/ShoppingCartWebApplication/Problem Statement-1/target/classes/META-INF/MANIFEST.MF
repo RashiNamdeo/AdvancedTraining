@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ANKIT
+Build-Jdk: 17.0.1
+Implementation-Title: springboot-thymeleaf-web-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.springboot.javaguides
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-thymeleaf-web-app
+Created-By: Maven Integration for Eclipse
+
