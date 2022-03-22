@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ANKIT
+Build-Jdk: 17.0.1
+Implementation-Title: springboot-crud-hibernate-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.javaguides.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-crud-hibernate-example
+Created-By: Maven Integration for Eclipse
+
